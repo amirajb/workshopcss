@@ -1,0 +1,29 @@
+.titre {
+    color: rgb(152,63,87);
+
+}
+body {
+    background-color: rgb(172,170,167);
+    border-style: solid;
+    border-color: black;
+        font-family: 'Roboto' sans-serif;
+ 
+}
+.nav { 
+    /*display:inline; */
+    color: #163966;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+    border-style: solid;
+}
+.table{
+    text-align:center ;
+}
+/*video{
+    width:500px; ,
+    height:300px;
+    margin-left:25cm;
+    justify-content:flex-end;
+
+}
